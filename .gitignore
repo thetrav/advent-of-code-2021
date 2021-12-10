@@ -1,3 +1,5 @@
 build
 .gradle
 .idea
+src/main/kotlin/pings.kt
+src/main/resources/ping*
